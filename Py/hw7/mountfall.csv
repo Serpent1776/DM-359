@@ -1,0 +1,542 @@
+﻿code,subterm,title,credits,type,capacity,enrollment,location,room,prof,days,start,end,start_date,end_date
+ACCT-101-A,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 320,"Karn, David",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+ACCT-101-B,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Karn, David",T R,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+ACCT-101-C,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Butt, Donald",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ACCT-101-D,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Butt, Donald",M W,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+ACCT-101-E,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 320,"Speciale, Raymond",M W,1:00 PM,2:15 PM,Aug 18 2025,Dec 12 2025
+ACCT-101-F,Full Semester,Accounting Principles I,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Karn, David",T,6:00 PM,8:30 PM,Aug 18 2025,Dec 12 2025
+ACCT-102-A,Full Semester,Accounting Principles II,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Karn, David",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ACCT-201-A,Full Semester,Intermediate Accounting I,3,Classroom (IP),25,0,EMMIT,ACNTR 320,"Speciale, Raymond",M W,2:30 PM,3:45 PM,Aug 18 2025,Dec 12 2025
+ACCT-301-A,Full Semester,Cost Accounting,3,Classroom Blended,25,0,EMMIT,ACNTR 306,"Butt, Donald",M W,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+ACCT-305-A,Full Semester,Accounting Software Apps/Controls,3,Online Asynchronous,25,0,ONLIN,,"Karn, David",,,,Aug 18 2025,Dec 12 2025
+ACCT-401-A,Full Semester,Federal Income Tax,3,Online Asynchronous,25,2,ONLIN,,"Speciale, Raymond",,,,Aug 18 2025,Dec 12 2025
+ACCT-405-A,Full Semester,Auditing,3,Online Asynchronous,25,0,ONLIN,,"Ely, Darlene",,,,Aug 18 2025,Dec 12 2025
+AMER-202-A,Full Semester,America in the World,3,Classroom (IP),20,0,EMMIT,ACNTR 203,"Patterson, Michelle",T R,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+AMER-202-CS,Full Semester,America in the World (Florence),3,Classroom (IP),23,0,OFFCM,OFFSL,"Towle, Michael",,,,Aug 18 2025,Dec 12 2025
+ASL-101-A,Full Semester,Beginning American Sign Language I,3,Classroom (WC),24,0,EMMIT,SCIEN 100,"Marjarum, Denise",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BIOCH-405-A,Full Semester,Biochemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 211,"Lombardi, Patrick",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BIOCH-405-B-L,Full Semester,Biochemistry I Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 203,"Lombardi, Patrick",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOCH-405-C-L,Full Semester,Biochemistry I Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 203,"Lombardi, Patrick",R,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-A,Full Semester,Introduction to Biology I,4,Classroom (IP),20,0,EMMIT,ACNTR 222,"Hartnett, Rachel",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-B,Full Semester,Introduction to Biology I,4,Classroom (IP),20,0,EMMIT,ACNTR 310,"Bolen, Rosina",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-C,Full Semester,Introduction to Biology I,4,Classroom (IP),20,0,EMMIT,ACNTR 222,"Hartnett, Rachel",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-D,Full Semester,Introduction to Biology I,4,Classroom (IP),20,0,EMMIT,ACNTR 210,"Kula, Abigail",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-E,Full Semester,Introduction to Biology I,4,Classroom (IP),20,1,EMMIT,ACNTR 222,"Hartnett, Rachel",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-F,Full Semester,Introduction to Biology I,4,Classroom (IP),20,0,EMMIT,ACNTR 210,"Kula, Abigail",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-110-K-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Brown, Sarah",M,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-L-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,1,EMMIT,SCIEN 205,"Brown, Sarah",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-M-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"El Meskini, Rajaa",T,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-N-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Simmons, Jeffrey",W,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-O-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Conner, Maria",W,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-P-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Hartnett, Rachel",R,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-Q-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"El Meskini, Rajaa",R,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-R-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Mills, William",T R,1:00 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+BIOL-110-S-L,Full Semester,Introduction to Biology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 205,"Sakowski, Eric",T R,3:00 PM,4:30 PM,Aug 18 2025,Dec 12 2025
+BIOL-221-A,Full Semester,Genetics,4,Classroom (IP),16,0,EMMIT,SCIEN 211,"Turner, Michael",M W,1:00 PM,3:30 PM,Aug 18 2025,Dec 12 2025
+BIOL-221-B,Full Semester,Genetics,4,Classroom (IP),16,1,EMMIT,SCIEN 211,"Turner, Michael",T R,9:30 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-225-A,Full Semester,Environmental Science,4,Classroom (IP),16,0,EMMIT,SCIEN 203,"Sakowski, Eric",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-225-B-L,Full Semester,Environmental Science Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 301,"Sakowski, Eric",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-298-A,Full Semester,Anatomy and Physiology I,4,Classroom (IP),22,0,EMMIT,SCIEN 314,"Taylor-Burt, Kari",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-298-B,Full Semester,Anatomy and Physiology I,4,Classroom (IP),22,0,EMMIT,SCIEN 314,"Taylor-Burt, Kari",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+BIOL-298-D-L,Full Semester,Anatomy and Physiology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 213,"Severino, Amie",M,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-298-E-L,Full Semester,Anatomy and Physiology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 213,"Weintraub, Annette",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-298-F-L,Full Semester,Anatomy and Physiology I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 213,"Weintraub, Annette",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-299-A,Full Semester,Anatomy and Physiology II,4,Classroom (IP),16,0,EMMIT,SCIEN 213,"Weintraub, Annette",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-299-D-L,Full Semester,Anatomy and Physiology II Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 213,"Weintraub, Annette",R,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-300-A,Full Semester,Microbiology,4,Classroom (IP),14,0,EMMIT,SCIEN 203,"Mills, William",M W,1:00 PM,3:30 PM,Aug 18 2025,Dec 12 2025
+BIOL-314-A,Full Semester,Virology,4,Classroom (IP),14,0,EMMIT,SCIEN 211,"Vilmen, Geraldine",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+BIOL-314-B-L,Full Semester,Virology Lab,0,Classroom (IP),14,0,EMMIT,SCIEN 203,"Vilmen, Geraldine",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-325-A,Full Semester,Ecology,4,Classroom (IP),16,0,EMMIT,ACNTR 210,"Kula, Abigail",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+BIOL-325-B-L,Full Semester,Ecology Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 301,"Kula, Abigail",R,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+BIOL-410-A,Full Semester,Seminar,1,Classroom (IP),14,0,EMMIT,SCIEN 313,"Kula, Abigail",F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+BUS-106-A,Full Semester,Business Math,3,Classroom (IP),25,0,EMMIT,ACNTR 227,"McCleaf, Caleb",T,6:00 PM,8:30 PM,Aug 18 2025,Dec 12 2025
+BUS-106-B,Full Semester,Business Math,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"McCleaf, Caleb",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-125-A,Full Semester,Personal Finance,3,Classroom (IP),25,0,EMMIT,ACNTR 204,"Morozov, Boris",M W,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+BUS-125-B,Full Semester,Personal Finance,3,Classroom (IP),25,0,EMMIT,ACNTR 304,"Nickey, Robert",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-150-A,Full Semester,Intro to Business & Decision Making,3,Classroom (IP),25,0,EMMIT,ACNTR 310,"Flynn, Patrice",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-150-B,Full Semester,Intro to Business & Decision Making,3,Classroom (IP),25,0,EMMIT,ACNTR 306,"Kimble, Nancy",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BUS-150-C,Full Semester,Intro to Business & Decision Making,3,Classroom (IP),25,0,EMMIT,ACNTR 310,"Flynn, Patrice",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-150-E,Full Semester,Intro to Business & Decision Making,3,Online Asynchronous,25,0,ONLIN,,"Beale, Tyson",,,,Aug 18 2025,Dec 12 2025
+BUS-150-F,Full Semester,Intro to Business & Decision Making,3,Online Asynchronous,25,0,ONLIN,,"Beale, Tyson",,,,Aug 18 2025,Dec 12 2025
+BUS-201-A,Full Semester,Business Law I,3,Classroom (IP),25,0,EMMIT,ACNTR 304,"Egan, Edward",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-201-B,Full Semester,Business Law I,3,Online Asynchronous,25,0,ONLIN,,"Speciale, Raymond",,,,Aug 18 2025,Dec 12 2025
+BUS-225-A,Full Semester,Technology Skills for Business,1,Online Asynchronous,25,0,ONLIN,,"Adkins, Margo",,,,Aug 18 2025,Dec 12 2025
+BUS-225-B,Full Semester,Technology Skills for Business,1,Classroom (IP),25,1,EMMIT,ACNTR 204,"Adkins, Margo",T,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-225-C,Full Semester,Technology Skills for Business,1,Online Asynchronous,25,0,ONLIN,,"Adkins, Margo",,,,Aug 18 2025,Dec 12 2025
+BUS-260-A,Full Semester,Business Communication,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Block, Olivia",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-306-A,Full Semester,Advertising and Promotion,3,Classroom (IP),24,0,EMMIT,ACNTR 224,"Kimble, Nancy",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-307-A,Full Semester,Business Mgmt. & Organization,3,Classroom (IP),25,1,EMMIT,ACNTR 204,"Green, Christina",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+BUS-307-B,Full Semester,Business Mgmt. & Organization,3,Classroom (IP),25,0,EMMIT,ACNTR 306,"Green, Christina",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+BUS-307-C,Full Semester,Business Mgmt. & Organization,3,Online Asynchronous,25,0,ONLIN,,"Green, Christina",,,,Aug 18 2025,Dec 12 2025
+BUS-307-D,Full Semester,Business Mgmt. & Organization,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"O'Guinn, Michael",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-311-A,Full Semester,Information Systems,3,Classroom (IP),25,0,EMMIT,ACNTR 204,"Choi, Byunghee",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BUS-311-B,Full Semester,Information Systems,3,Classroom (IP),25,0,EMMIT,ACNTR 204,"Choi, Byunghee",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+BUS-313-A,Full Semester,Principles of Marketing,3,Classroom (IP),25,1,EMMIT,ACNTR 327,"Reynolds, Edward",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-313-B,Full Semester,Principles of Marketing,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Reynolds, Edward",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-313-C,Full Semester,Principles of Marketing,3,Online Asynchronous,25,0,ONLIN,,"Beale, Tyson",,,,Aug 18 2025,Dec 12 2025
+BUS-320-A,Full Semester,Statistics,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Tesfu, Solomon",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BUS-320-B,Full Semester,Statistics,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Tesfu, Solomon",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+BUS-344-A,Full Semester,Operations and Supply Chain Mgmt.,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Chacko, Josey",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BUS-344-B,Full Semester,Operations and Supply Chain Mgmt.,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Chacko, Josey",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+BUS-355-A,Full Semester,Database,3,Classroom (IP),20,0,EMMIT,ACNTR 204,"Choi, Byunghee",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+BUS-360-A,Full Semester,Corporate Finance I,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Young, Brad",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+BUS-360-B,Full Semester,Corporate Finance I,3,Classroom (IP),25,1,EMMIT,ACNTR 120,"Nickey, Robert",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+BUS-400-A,Full Semester,Business Ethics in Society,3,Online Asynchronous,25,1,ONLIN,,"Frey, Paul",,,,Aug 18 2025,Dec 12 2025
+BUS-400-B,Full Semester,Business Ethics in Society,3,Online Asynchronous,25,0,ONLIN,,"Frey, Paul",,,,Aug 18 2025,Dec 12 2025
+BUS-400-C,Full Semester,Business Ethics in Society,3,Online Asynchronous,25,0,ONLIN,,"Frey, Paul",,,,Aug 18 2025,Dec 12 2025
+BUS-403-A,Full Semester,Investments,3,Classroom (IP),25,0,EMMIT,ACNTR 204,"Morozov, Boris",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+BUS-404-A,Full Semester,Business Strategy,3,Classroom (IP),24,0,EMMIT,ACNTR 120,"Nickey, Robert",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+BUS-458-A,Full Semester,Current Events: Cases in Bus & Econ,3,Online Asynchronous,25,0,ONLIN,,"Berendt, Emil",,,,Aug 18 2025,Dec 12 2025
+BUSGE-445-A,Full Semester,Global Business and Culture,3,Classroom (IP),25,2,EMMIT,ACNTR 306,"Barry, Michael",T R,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+BUSGE-470-A,Full Semester,China's New Silk Road,3,Classroom (IP),25,0,EMMIT,ACNTR 310,"Flynn, Patrice",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+CHEM-100-A,Full Semester,Quantitative Fundamentals/Chemistry,3,Classroom (IP),16,0,EMMIT,SCIEN 313,"Lyons, Ann Marie",M W,4:00 PM,5:15 PM,Aug 18 2025,Dec 12 2025
+CHEM-100-B,Full Semester,Quantitative Fundamentals/Chemistry,3,Classroom (IP),16,0,EMMIT,SCIEN 314,"Fox, Lynn",T R,4:00 PM,5:15 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-A,Full Semester,General Chemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 313,"Krueger, Sarah",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-101-B,Full Semester,General Chemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 313,"Stepler, Kaitlyn",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-101-C,Full Semester,General Chemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 313,"Patterson, Garth",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-101-D,Full Semester,General Chemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 313,"Patterson, Garth",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-E-L,Full Semester,General Chemistry I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,"Mills, Isaac",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-F-L,Full Semester,General Chemistry I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,"Wood, William",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-G-L,Full Semester,General Chemistry I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,Jenzabar J1 Admin,T,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-H-L,Full Semester,General Chemistry I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,Jenzabar J1 Admin,W,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-I-L,Full Semester,General Chemistry I Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,"Stepler, Kaitlyn",R,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-K-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Lillard, David",M,6:00 PM,6:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-L-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Lillard, David",M,7:00 PM,7:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-M-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Lillard, David",M,8:00 PM,8:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-N-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Walker, Jessica",T,6:00 PM,6:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-O-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Walker, Jessica",T,7:00 PM,7:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-P-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Walker, Jessica",T,8:00 PM,8:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-101-Q-R,Full Semester,General Chemistry I Recitation,0,Classroom (IP),12,0,EMMIT,SCIEN 313,"Krueger, Sarah",M,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-102-A,Full Semester,General Chemistry II,4,Classroom (IP),20,0,EMMIT,SCIEN 216,"Mills, Isaac",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-102-B-L,Full Semester,General Chemistry II Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,"Mills, Isaac",M,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-102-C-L,Full Semester,General Chemistry II Lab,0,Classroom (IP),16,0,EMMIT,SCIEN 311,"Cabalo, Jerry",M,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-102-D-R,Full Semester,General Chemistry II Recitation,0,Classroom (IP),12,0,EMMIT,PHLIB 101,"Mills, Isaac",W,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+CHEM-201-A,Full Semester,Organic Chemistry I,4,Classroom (IP),20,0,EMMIT,SCIEN 314,"Kreke, Patricia",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-201-B,Full Semester,Organic Chemistry I,4,Classroom (IP),20,1,EMMIT,SCIEN 314,"Kreke, Patricia",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-201-C-L,Full Semester,Organic Chemistry I Lab,0,Classroom (IP),14,0,EMMIT,SCIEN 305,"Krueger, Sarah",T,9:00 AM,12:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-201-D-L,Full Semester,Organic Chemistry I Lab,0,Classroom (IP),14,1,EMMIT,SCIEN 305,"Krueger, Sarah",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-201-E-L,Full Semester,Organic Chemistry I Lab,0,Classroom (IP),14,0,EMMIT,SCIEN 305,"DeBoer, Jason",T,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-210-A,Full Semester,Analytical Chemistry,4,Classroom (IP),18,0,EMMIT,SCIEN 211,"Stepler, Kaitlyn",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CHEM-210-B-L,Full Semester,Analytical Chemistry I Lab,0,Classroom (IP),18,0,EMMIT,SCIEN 301,"Stepler, Kaitlyn",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-303-A,Full Semester,Physical Chemistry I,5,Classroom (IP),14,0,EMMIT,SCIEN 313,"Miles, Danny",M W,2:00 PM,3:30 PM,Aug 18 2025,Dec 12 2025
+CHEM-303-B-L,Full Semester,Physical Chemistry I Lab,0,Classroom (IP),14,0,EMMIT,SCIEN 216,"Miles, Danny",R,2:00 PM,5:00 PM,Aug 18 2025,Dec 12 2025
+CHEM-410-A,Full Semester,Seminar,1,Classroom (IP),14,0,EMMIT,SCIEN 313,"Kula, Abigail",F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+CJUST-110-5D,Full Semester,Introduction to Criminal Justice,3,Classroom (IP),25,0,FRED,,"Wolfe, Timothy",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+CJUST-110-A,Full Semester,Introduction to Criminal Justice,3,Classroom (IP),22,1,EMMIT,ACNTR 111,"McGovern, Virginia",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+CJUST-110-B,Full Semester,Introduction to Criminal Justice,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"McGovern, Virginia",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+CJUST-110-C,Full Semester,Introduction to Criminal Justice,3,Classroom (WC),22,0,EMMIT,ACNTR 107,"Vince, Joseph",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+CJUST-115-A,Full Semester,Corrections,3,Classroom (IP),22,1,EMMIT,ACNTR 210,"McNulty, Michael",M,6:00 PM,8:50 PM,Aug 18 2025,Dec 12 2025
+CJUST-115-B,Full Semester,Corrections,3,Classroom (IP),22,0,EMMIT,ACNTR 210,"McNulty, Michael",W,6:00 PM,8:50 PM,Aug 18 2025,Dec 12 2025
+CJUST-200-A,Full Semester,Intro to Intelligence Analysis,3,Classroom (WC),22,0,EMMIT,ACNTR 107,"Vince, Joseph",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+CJUST-223-A,Full Semester,Cyber Criminology,3,Classroom (IP),22,2,EMMIT,ACNTR 111,"McGovern, Virginia",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+CJUST-314-A,Full Semester,Cyber Security,3,Online Asynchronous,22,1,ONLIN,,"Akpodiete, Alexander",,,,Aug 18 2025,Dec 12 2025
+CJUST-314-B,Full Semester,Cyber Security,3,Online Asynchronous,22,0,ONLIN,,"Akpodiete, Alexander",,,,Aug 18 2025,Dec 12 2025
+CJUST-317-A,Full Semester,Criminal Law,3,Classroom (IP),22,0,EMMIT,ACNTR 227,"Rosario, Ruben",W,4:00 PM,6:50 PM,Aug 18 2025,Dec 12 2025
+CJUST-318-A,Full Semester,Criminology,3,Classroom (IP),22,0,EMMIT,ACNTR 210,"Dooley, Brendan",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+CJUST-318-B,Full Semester,Criminology,3,Classroom (IP),22,0,EMMIT,ACNTR 210,"Dooley, Brendan",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+CJUST-339-A,Full Semester,Emergency Management,3,Classroom (IP),23,0,EMMIT,ACNTR 320,"Lynch, Matthew",W,6:00 PM,8:50 PM,Aug 18 2025,Dec 12 2025
+CJUST-341-A,Full Semester,Guns and Crime,3,Classroom (WC),22,0,EMMIT,ACNTR 107,"Vince, Joseph",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+CJUST-480-A,Full Semester,Internship,1,Classroom (IP),0,0,OFFCM,,"Trammell, John",,,,Aug 18 2025,Dec 12 2025
+CMSCI-120-A,Full Semester,Introduction to Computer Science I,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"Mudiyanselage, Nadun",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-120-B,Full Semester,Introduction to Computer Science I,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"Mudiyanselage, Nadun",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-120-C,Full Semester,Introduction to Computer Science I,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Rittie, Kevin",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+CMSCI-120-D,Full Semester,Introduction to Computer Science I,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Rittie, Kevin",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+CMSCI-125-A,Full Semester,Introduction to Computer Science II,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Weiss, Scott",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-254-A,Full Semester,Data Structures and Algorithms,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"Lamprecht, Ruth",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-254-B,Full Semester,Data Structures and Algorithms,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"Lamprecht, Ruth",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-277-A,Full Semester,Computer Architecture,3,Classroom (WC),20,0,EMMIT,SCIEN 158,"Heinold, Brian",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+CMSCI-277-B,Full Semester,Computer Architecture,3,Classroom (WC),20,0,EMMIT,SCIEN 158,"Heinold, Brian",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+CMSCI-349-A,Full Semester,Software Engineering,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Lamprecht, Ruth",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-355-A,Full Semester,Network Systems and Design,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Weiss, Scott",M W F,8:00 AM,8:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-355-B,Full Semester,Network Systems and Design,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Weiss, Scott",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-358-A,Full Semester,Computer Security I,3,Classroom (WC),20,0,EMMIT,SCIEN 111,"Heinold, Brian",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-358-B,Full Semester,Computer Security I,3,Classroom (WC),20,0,EMMIT,SCIEN 111,"Heinold, Brian",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+CMSCI-442-A,Full Semester,Principles of Programming Languages,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Weiss, Scott",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-474-A,Full Semester,Computer Science Capstone I,1,Classroom (IP),10,0,EMMIT,SCIEN 117,"Lamprecht, Ruth",M,3:00 PM,3:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-474-B,Full Semester,Computer Science Capstone I,1,Classroom (IP),10,0,EMMIT,SCIEN 107,"Weiss, Scott",W,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+CMSCI-475-A,Full Semester,Computer Science Capstone II,3,Classroom (IP),20,0,EMMIT,SCIEN 117,"Lamprecht, Ruth",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+COMM-190-A,Full Semester,Public Speaking,3,Classroom (IP),10,0,EMMIT,ACNTR 222,"Firgens, Benjamin",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+COMM-190-B,Full Semester,Public Speaking,3,Classroom (IP),10,0,EMMIT,ACNTR 207,Jenzabar J1 Admin,M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+COMM-200-5D,Full Semester,Foundations of Writing,3,Classroom (IP),18,0,FRED,,Jenzabar J1 Admin,T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+COMM-200-A,Full Semester,Foundations of Writing,3,Online Blended,10,0,ONLIN,,"Fiore, Magdalyn",M,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+COMM-200-B,Full Semester,Foundations of Writing,3,Classroom (IP),10,0,EMMIT,ACNTR 211,"Loveridge, Jordan",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+COMM-201-A,Full Semester,Media Writing,3,Classroom (IP),16,0,EMMIT,ACNTR 211,"Klinger, Donna",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+COMM-202-A,Full Semester,Streaming Practicum,1,Classroom (IP),18,0,EMMIT,,"Hansen, Michael",,,,Aug 18 2025,Dec 12 2025
+COMM-203-A,Full Semester,Interpersonal Communication,3,Classroom (IP),18,0,EMMIT,ACNTR 120,"Kumar, Pratibha",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+COMM-205-A,Full Semester,WMTB Practicum,1,Classroom (IP),30,0,EMMIT,,"Gray, Randall",,,,Aug 18 2025,Dec 12 2025
+COMM-206-A,Full Semester,Mountain Echo Practicum,1,Classroom (IP),20,1,EMMIT,,"Kumar, Pratibha",,,,Aug 18 2025,Dec 12 2025
+COMM-207-A,Full Semester,Introduction to Public Relations,3,Online Asynchronous,18,0,ONLIN,,"Shealer, Sheldon",,,,Aug 18 2025,Dec 12 2025
+COMM-208-A,Full Semester,ESPN Practicum,1,Classroom (IP),10,0,EMMIT,,"Shealer, Sheldon",,,,Aug 18 2025,Dec 12 2025
+COMM-210-A,Full Semester,Media and Society,3,Classroom (IP),18,0,EMMIT,ACNTR 320,"Kumar, Pratibha",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+COMM-211-A,Full Semester,Intro to Communication,3,Classroom (IP),20,0,EMMIT,ACNTR 120,"Firgens, Benjamin",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+COMM-270-A,Full Semester,Social Media,3,Classroom (IP),18,0,EMMIT,ACNTR 222,"Firgens, Benjamin",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+COMM-301-A,Full Semester,Blogging: Writing and Production,1,Classroom (WC),2,0,EMMIT,ACNTR,"Klinger, Donna",,,,Aug 18 2025,Dec 12 2025
+COMM-314-A,Full Semester,Advanced Video Production,3,Classroom (IP),18,0,EMMIT,ACNTR 204,"Eby, Caitlin",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+COMM-316-A,Full Semester,Intro to User Experience,3,Classroom (IP),16,0,EMMIT,ACNTR 211,"Loveridge, Jordan",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+COMM-365-A,Full Semester,Sports Communication,3,Classroom (IP),20,0,EMMIT,SCIEN 125,"Shealer, Sheldon",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+COMM-498-A,Full Semester,Senior Seminar,3,Classroom (IP),18,0,EMMIT,ACNTR 120,"Kumar, Pratibha",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+CYBER-100-A,Full Semester,Foundations of Cybersecurity,3,Classroom (IP),20,0,EMMIT,SCIEN 125,"Leary, Margaret",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+CYBER-100-B,Full Semester,Foundations of Cybersecurity,3,Classroom (IP),20,0,EMMIT,SCIEN 125,"Leary, Margaret",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+CYBER-261-A,Full Semester,UNIX and Windows Operating Systems,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Rittie, Kevin",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+CYBER-261-B,Full Semester,UNIX and Windows Operating Systems,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Rittie, Kevin",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+CYBER-301-A,Full Semester,Secure Systems Design & Risk Mgmt.,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Leary, Margaret",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+CYBER-301-B,Full Semester,Secure Systems Design & Risk Mgmt.,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"Leary, Margaret",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+DATA-200-A,Full Semester,Introduction to Data Science,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"McCurdy, Jonathan",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+DATA-200-B,Full Semester,Introduction to Data Science,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"McCurdy, Jonathan",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+DATA-200-C,Full Semester,Introduction to Data Science,3,Classroom (IP),20,0,EMMIT,SCIEN 125,"Salinas Duron, Daniel",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+DATA-201-A,Full Semester,ST: Special Topics in Data Science,1,Classroom (IP),20,0,EMMIT,SCIEN 158,"Salinas Duron, Daniel",T,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+DATA-220-A,Full Semester,Machine Learning Models,3,Classroom (IP),20,1,EMMIT,SCIEN 107,"McCurdy, Jonathan",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+DATA-330-A,Full Semester,Data Wrangling,3,Classroom (IP),20,0,EMMIT,SCIEN 111,"McCurdy, Jonathan",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+DATA-420-A,Full Semester,High Performance Computing,3,Classroom (IP),20,0,EMMIT,SCIEN 158,"Salinas Duron, Daniel",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+ECED-388-A,Full Semester,Early Childhood Education: Meth/Pra,3,Online Synchronous,20,0,ONLIN,,"Brady, Kara",M,6:00 PM,8:30 PM,Aug 18 2025,Dec 12 2025
+ECON-101-A,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Larrivee, John",M W F,8:00 AM,8:50 AM,Aug 18 2025,Dec 12 2025
+ECON-101-B,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 327,"Larrivee, John",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+ECON-101-C,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,2,EMMIT,ACNTR 304,"Canadas, Alejandro",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+ECON-101-D,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Berendt, Emil",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+ECON-101-E,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 308,"Berendt, Emil",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+ECON-101-F,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"Stanton, Timothy",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+ECON-101-G,Full Semester,Foundations of Economics: Macroecon,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"Stanton, Timothy",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+ECON-102-A,Full Semester,Foundations of Economics: Microecon,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"Stanton, Timothy",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+ECON-212-A,Full Semester,Intermediate Microeconomics,3,Classroom (IP),25,1,EMMIT,ACNTR 327,"Larrivee, John",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+ECON-309-A,Full Semester,Money and Banking,3,Classroom (IP),25,0,EMMIT,ACNTR 204,"Berendt, Emil",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+ECON-360-A,Full Semester,Global Business and Economics,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"Barry, Michael",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+ECON-360-B,Full Semester,Global Business and Economics,3,Classroom (IP),25,0,EMMIT,ACNTR 311,"Barry, Michael",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+ECON-390-A,Full Semester,The Economy of Francesco,3,Classroom (IP),25,0,EMMIT,ACNTR 222,"Canadas, Alejandro",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ECON-403-A,Full Semester,Econometrics,3,Classroom (IP),20,1,EMMIT,ACNTR 306,"Tesfu, Solomon",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+EDGE-343-A,Full Semester,Globalization and Education,3,Classroom (IP),25,0,EMMIT,ACNTR 109,"Ohanian, Michelle",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+EDUC-100-A,Full Semester,Foundations of American Education,4,Classroom (IP),24,0,EMMIT,ACNTR 109,"Kole, Clarke",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+EDUC-202-A,Full Semester,Materials for Teaching Reading,4,Classroom (IP),24,0,EMMIT,ACNTR 109,"Kole, Clarke",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+EDUC-203-A,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",T,9:00 AM,11:00 AM,Aug 18 2025,Dec 12 2025
+EDUC-203-B,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",T,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-203-C,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,8:30 AM,10:30 AM,Aug 18 2025,Dec 12 2025
+EDUC-203-D,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-203-E,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,8:30 AM,10:30 AM,Aug 18 2025,Dec 12 2025
+EDUC-203-F,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-203-G,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,1:00 PM,3:00 PM,Aug 18 2025,Dec 12 2025
+EDUC-203-H,Full Semester,Sophomore Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,7:00 AM,9:00 AM,Aug 18 2025,Dec 12 2025
+EDUC-228-A,Full Semester,Processes & Acquisition of Reading,4,Classroom (IP),24,0,EMMIT,ACNTR 109,"Brady, Kara",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+EDUC-300-A,Full Semester,Modernity in Education,3,Classroom (IP),24,0,EMMIT,ACNTR 109,"Ohanian, Michelle",T R,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+EDUC-311-A,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",T,9:00 AM,11:00 AM,Aug 18 2025,Dec 12 2025
+EDUC-311-B,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",T,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-311-C,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,8:30 AM,10:30 AM,Aug 18 2025,Dec 12 2025
+EDUC-311-D,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-311-E,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,8:30 AM,10:30 AM,Aug 18 2025,Dec 12 2025
+EDUC-311-F,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,12:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-311-G,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",R,1:00 PM,3:00 PM,Aug 18 2025,Dec 12 2025
+EDUC-311-H,Full Semester,Junior Fall Field Experience,0,Classroom (IP),20,0,OFFCM,OFFSL,"Solar, Christine",W,7:00 AM,9:00 AM,Aug 18 2025,Dec 12 2025
+EDUC-325-A,Full Semester,Literacy in the Secondary Content A,3,Classroom (IP),24,0,EMMIT,ACNTR 111,"Ohanian, Michelle",M,6:00 PM,8:30 PM,Aug 18 2025,Dec 12 2025
+EDUC-346-A,Full Semester,Service Seminar,3,Classroom (IP),24,0,OFFCM,OFFSL,"Ohanian, Michelle",,,,Aug 18 2025,Dec 12 2025
+ENGE-379-A,Full Semester,Black Britain: Voices and Visions,3,Classroom (IP),15,1,EMMIT,PHLIB FR,"Mitra, Indrani",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+ENGL-104-A,Full Semester,World Literature,3,Classroom (IP),15,0,EMMIT,ACNTR 108,"Dorsey, Peter",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+ENGL-111-A,Full Semester,Detective Film and Fiction,3,Classroom (IP),15,2,EMMIT,PHLIB FR,"Dudley, John",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+ENGL-261-A,Full Semester,British Literature Survey,3,Classroom (IP),15,0,EMMIT,ACNTR 311,"Lewis, Sean",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ENGL-286-A,Full Semester,Introduction to Creative Writing,3,Classroom (IP),15,0,EMMIT,ACNTR 308,"Sarria, Alba",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+ENGL-353-A,Full Semester,Joy After Secularism,3,Classroom (IP),15,1,EMMIT,PHLIB FR,"Dudley, John",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+ENGL-362-A,Full Semester,Toni Morrison,3,Classroom (IP),15,1,EMMIT,PHLIB FR,"Wehner, David",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+ENGL-498-A,Full Semester,English Senior Seminar,3,Classroom (IP),15,1,EMMIT,PHLIB FR,"Scott, Sarah",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+ENMO-300-A,Full Semester,Modernity in Literature,3,Classroom (IP),22,0,EMMIT,ACNTR 106,"Dorsey, Peter",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+ENMO-300-B,Full Semester,Modernity in Literature,3,Classroom (IP),22,0,EMMIT,ACNTR 106,"Dorsey, Peter",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+ENMO-300-C,Full Semester,Modernity in Literature,3,Online Asynchronous,22,1,ONLIN,,"Dudley, John",,,,Aug 18 2025,Dec 12 2025
+ENMO-300-D,Full Semester,Modernity in Literature,3,Classroom (IP),21,0,EMMIT,ACNTR 227,"Wehner, David",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+ENMO-300-E,Full Semester,Modernity in Literature,3,Online Synchronous,22,0,ONLIN,,"Higgins, Anne",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ESHIP-101-A,Full Semester,Introduction to Entrepreneurship,3,Classroom (IP),25,0,EMMIT,ACNTR 323,"Van Berten, Philip",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+ESHIP-101-B,Full Semester,Introduction to Entrepreneurship,3,Classroom (IP),24,0,EMMIT,ACNTR 108,"Van Berten, Philip",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+ESHIP-320-A,Full Semester,Design Thinking,3,Classroom (IP),24,0,EMMIT,ACNTR 108,"Van Berten, Philip",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+ESHIP-498-A,Full Semester,Entrepreneurship Practicum,3,Classroom (IP),7,0,EMMIT,ACNTR 323,"Patterson, Garth",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FAAR-106-A,Full Semester,Painting I,3,Classroom (IP),12,0,EMMIT,BARRH 1,"Holtry, Elizabeth",T R,2:00 PM,3:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-107-A,Full Semester,Ceramics,3,Classroom (IP),12,0,EMMIT,BRDAX 1,Jenzabar J1 Admin,T R,6:00 PM,7:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-108-A,Full Semester,Two-Dimensional Design,3,Classroom (IP),12,0,EMMIT,BARRH 1,"Holtry, Elizabeth",M W,2:00 PM,3:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-110-A,Full Semester,Digital Photography,3,Classroom (IP),12,0,EMMIT,KNAUD A,"Miller, Mike",T R,9:00 AM,10:40 AM,Aug 18 2025,Dec 12 2025
+FAAR-111-A,Full Semester,Three -Dimensional Design,3,Classroom (IP),12,0,EMMIT,BRDAX 1,"Prender, Robert",W F,9:00 AM,10:40 AM,Aug 18 2025,Dec 12 2025
+FAAR-116-A,Full Semester,Graphic Design I,3,Classroom (IP),13,1,EMMIT,KNAUD A,Jenzabar J1 Admin,M W,12:00 PM,1:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-122-A,Full Semester,Intro to Blacksmithing,2,Classroom (IP),4,0,EMMIT,BRDAX 1,"Green, Harold",M,5:00 PM,8:00 PM,Aug 18 2025,Dec 12 2025
+FAAR-201-A,Full Semester,Typography and Layout,3,Classroom (IP),13,0,EMMIT,KNAUD A,Jenzabar J1 Admin,T R,12:00 PM,1:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-204-A,Full Semester,Art History: Survey of Western Art,3,Classroom (WC),25,0,EMMIT,SCIEN 100,"Zygmont, Bryan",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FAAR-220-A,Full Semester,Environmental Art,3,Classroom (IP),22,0,EMMIT,BARRH 1,"Holtry, Elizabeth",M W,11:00 AM,12:40 PM,Aug 18 2025,Dec 12 2025
+FAAR-251-A,Full Semester,Makerlab Practicum,1,Classroom (IP),25,0,EMMIT,,Jenzabar J1 Admin,W,5:00 PM,6:00 PM,Aug 18 2025,Dec 12 2025
+FAAR-301-A,Full Semester,Media in Motion,3,Classroom (IP),13,0,EMMIT,KNAUD B,Jenzabar J1 Admin,M W,9:00 AM,10:40 AM,Aug 18 2025,Dec 12 2025
+FAMU-100-A,Full Semester,Music Theory I,3,Classroom (IP),10,1,EMMIT,DELAC 113,"Benner, Francesca",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FAMU-106-A,Full Semester,Music Appreciation,3,Classroom (IP),12,0,EMMIT,DELAC 113,"Benner, Francesca",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+FAMU-150-A,Full Semester,Basic Piano,1,Classroom (IP),7,1,EMMIT,,"Wickelgren, John",,,,Aug 18 2025,Dec 12 2025
+FAMU-151-A,Full Semester,Basic Voice,1,Classroom (IP),16,0,EMMIT,,"Weary, Kyle",,,,Aug 18 2025,Dec 12 2025
+FAMU-152-A,Full Semester,Basic Guitar,1,Classroom (IP),15,0,EMMIT,,"Ravita, Philip",,,,Aug 18 2025,Dec 12 2025
+FAMU-153-A,Full Semester,Basic Clarinet,1,Classroom (IP),7,0,EMMIT,,"Armstrong, Laura",,,,Aug 18 2025,Dec 12 2025
+FAMU-153-D,Full Semester,Basic Saxophone,1,Classroom (IP),7,0,EMMIT,,"Armstrong, Laura",,,,Aug 18 2025,Dec 12 2025
+FAMU-153-E,Full Semester,Basic Flute,1,Classroom (IP),7,0,EMMIT,DELAC,"Banks, Jessica",,,,Aug 18 2025,Dec 12 2025
+FAMU-154-A,Full Semester,Basic French Horn,1,Classroom (IP),7,0,EMMIT,DELAC,"McDaniel, Rory",,,,Aug 18 2025,Dec 12 2025
+FAMU-154-B,Full Semester,Basic Trumpet,1,Classroom (IP),7,0,EMMIT,DELAC,"Pursell, John",,,,Aug 18 2025,Dec 12 2025
+FAMU-154-C,Full Semester,Basic Low Brass,1,Classroom (IP),7,0,EMMIT,DELAC,"Carlson, Mark",,,,Aug 18 2025,Dec 12 2025
+FAMU-155-A,Full Semester,Basic Percussion,1,Classroom (IP),7,0,EMMIT,KNAUD AUD,"Leppo, Mark",,,,Aug 18 2025,Dec 12 2025
+FAMU-156-A,Full Semester,Basic Violin,1,Classroom (IP),7,0,EMMIT,DELAC,"Tung, James",,,,Aug 18 2025,Dec 12 2025
+FAMU-156-B,Full Semester,Basic Cello,1,Classroom (IP),7,0,EMMIT,DELAC,"Tung, James",,,,Aug 18 2025,Dec 12 2025
+FAMU-156-C,Full Semester,Basic Cello,1,Classroom (IP),7,0,EMMIT,DELAC,"Karppala, Danielle",,,,Aug 18 2025,Dec 12 2025
+FAMU-156-D,Full Semester,Basic Contrabass,1,Classroom (IP),7,0,EMMIT,DELAC,"Ravita, Philip",,,,Aug 18 2025,Dec 12 2025
+FAMU-221-A,Full Semester,Mount St. Mary's Wind Ensemble,1,Classroom (IP),25,0,EMMIT,KNAUD AUD,"Carlson, Mark",M W F,12:00 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FAMU-222-A,Full Semester,Mount St. Mary's Lab Bands,1,Classroom (IP),10,0,EMMIT,KNAUD C,"Carlson, Mark",T R,3:30 PM,5:00 PM,Aug 18 2025,Dec 12 2025
+FAMU-223-A,Full Semester,Mount St. Mary's String Ensemble,1,Classroom (IP),20,0,EMMIT,KNAUD AUD,"Tung, James",T R,3:30 PM,5:30 PM,Aug 18 2025,Dec 12 2025
+FAMU-230-A,Full Semester,Mount St. Mary's University Chorale,1,Classroom (IP),25,0,EMMIT,KNAUD AUD,"Benner, Francesca",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FAMU-250-A,Full Semester,Intermediate Piano,1,Classroom (IP),2,0,EMMIT,,"Wickelgren, John",,,,Aug 18 2025,Dec 12 2025
+FAMU-254-A,Full Semester,Intermediate Saxophone,1,Classroom (IP),5,1,EMMIT,,"Armstrong, Laura",,,,Aug 18 2025,Dec 12 2025
+FAMU-256-A,Full Semester,Intermediate Violin,1,Classroom (IP),2,0,EMMIT,,"Tung, James",,,,Aug 18 2025,Dec 12 2025
+FAMU-310-A,Full Semester,Seminar in 20th/21st Century Music,3,Classroom (IP),10,0,EMMIT,DELAC 113,"Carlson, Mark",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FATH-103-A,Full Semester,Introduction to Theatre,3,Classroom (IP),20,0,EMMIT,DELAC THETR,"Brooks, Anthony",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FATH-208-A,Full Semester,Stage Design,3,Classroom (IP),20,0,EMMIT,DELAC THETR,"Brooks, Anthony",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FATH-240-A,Full Semester,Mainstage Production,3,Classroom (IP),15,0,EMMIT,DELAC THETR,"Brooks, Anthony",M W,5:00 PM,7:00 PM,Aug 18 2025,Dec 12 2025
+FREN-101-A,Full Semester,Beginning French I,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Stefanik, Roxanne",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+FREN-101-B,Full Semester,Beginning French I,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Stefanik, Roxanne",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FREN-101-C,Full Semester,Beginning French I,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Stefanik, Roxanne",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FREN-101-D,Full Semester,Beginning French I,3,Classroom (IP),22,0,EMMIT,ACNTR 203,"Stefanik, Roxanne",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FREN-201-A,Full Semester,Intermediate French I,3,Classroom (IP),22,1,EMMIT,ACNTR 111,"Roman, Marco",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+FREN-301-A,Full Semester,Introduction to French Studies,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-A,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 208,"Strauss, Charles",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-AH,Full Semester,The First Year Symposium Honors,3,Classroom (IP),18,0,EMMIT,ACNTR 207,"Fritz, Timothy",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-B,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 311,"Heil, John-Paul",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-BH,Full Semester,Honors: The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 207,"Lewis, Sean",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-C,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 311,"Heil, John-Paul",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-CH,Full Semester,Honors: The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 222,"Firgens, Benjamin",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-D,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 209,"Sauers, Dana",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-DH,Full Semester,Honors: The First Year Symposium,3,Classroom (IP),18,0,EMMIT,PHLIB 101,"Scott, Sarah",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-E,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 220,"Trammell, John",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-F,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 120,"Creasman, Boyd",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-G,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 209,"Sauers, Dana",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-H,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 207,"McGinley, Stephen",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-I,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 224,"McCarthy, David",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-J,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 304,"Miller, Mike",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-K,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 207,"McGinley, Stephen",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-L,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 222,"Canadas, Alejandro",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-M,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,,"Loveridge, Jordan",,,,Aug 18 2025,Dec 12 2025
+FSYM-101-N,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 207,"McGinley, Stephen",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-O,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 104,"Turner, Kevin",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-P,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 104,"Turner, Kevin",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-Q,Full Semester,The First Year Symposium,3,Classroom (IP),18,1,EMMIT,PHLIB 102,"Johnson, Mary",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-R,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 304,"Birge, Mary Kate",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+FSYM-101-S,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 106,"Nutter, Taylor",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-T,Full Semester,The First Year Symposium,3,Classroom (IP),18,6,EMMIT,ACNTR 106,"Nutter, Taylor",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-U,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,DELAC 113,"Benner, Francesca",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-V,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 211,"Christiansen, William",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+FSYM-101-W,Full Semester,The First Year Symposium,3,Classroom (IP),18,0,EMMIT,ACNTR 210,"Dooley, Brendan",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+GENED-150-A,Full Semester,ST Future Horizons,1,Online Asynchronous,12,0,ONLIN,,"Dayhoff, Lucas",,,,Aug 18 2025,Dec 12 2025
+GERMN-101-A,Full Semester,Beginning German I,3,Classroom (IP),22,0,EMMIT,ACNTR 206,"Samples, Susann",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+GNSCI-126-A,Full Semester,Bio Sci/Exercise and Well-Being,4,Classroom (IP),18,0,EMMIT,,"Taylor-Burt, Kari",W F,9:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+GNSCI-130-A,Full Semester,Physical Science: Chemistry of Food,4,Classroom (IP),18,0,EMMIT,SCIEN 301,"Lyons, Ann Marie",M W,9:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+GNSCI-130-B,Full Semester,Physical Science: Chemistry of Food,4,Classroom (IP),18,0,EMMIT,SCIEN 301,"Lyons, Ann Marie",M W,12:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+GNSCI-138-A,Full Semester,Bio. Sci.: Nutrition & Life,4,Classroom (IP),18,2,EMMIT,SCIEN 203,"Field, Lindsey",M W,10:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+GNSCI-145-A,Full Semester,Physical Science: Meteorology,4,Classroom (IP),18,0,EMMIT,SCIEN 216,"Wood, William",T R,10:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+GNSCI-153-A,Full Semester,Bio Sc: Physiology of Mental Health,4,Classroom (IP),18,0,EMMIT,SCIEN 211,"Lukban, Erin",T R,2:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+GNSTD-003-A,Full Semester,EDUCATION GENERAL STUDIES,12,Classroom (IP),75,0,OFFCM,OFFSL,Jenzabar J1 Admin,MTWRF,,,Aug 18 2025,Dec 12 2025
+HIGE-377-A,Full Semester,Irish History (Dublin Only),3,Classroom (IP),20,0,OFFCM,OFFSL,"Gianoutsos, Jamie",,,,Aug 18 2025,Dec 12 2025
+HIST-201-A,Full Semester,"Class, Race, & Baseball",3,Classroom (IP),15,0,EMMIT,ACNTR 308,"Johnson, Curtis",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+HIST-202-A,Full Semester,Making History: Nazi Germany,3,Classroom (IP),18,0,EMMIT,ACNTR 127,"Strauss, Elizabeth",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+HIST-262-A,Full Semester,World War I,3,Classroom (IP),18,0,EMMIT,SCIEN 313,"Cohill, W.",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+HIST-276-A,Full Semester,U.S. Women's History to 1877,3,Classroom (IP),20,0,EMMIT,ACNTR 203,"Patterson, Michelle",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+HIST-297-A,Full Semester,The Apocalypse,3,Classroom (IP),15,1,EMMIT,ACNTR 104,"Bonura, Christopher",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+HIST-498-A,Full Semester,History Senior Seminar,3,Classroom (IP),20,0,EMMIT,,"Strauss, Charles",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+HP-470-A,Full Semester,Senior Honors Project,2,Classroom (IP),25,0,EMMIT,,"Lewis, Sean",,,,Aug 18 2025,Dec 12 2025
+HSRV-200-A,Full Semester,Introduction to Human Services,3,Classroom Blended,22,0,EMMIT,ACNTR 210,"Wolfe, Timothy",T,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+HSRV-200-B,Full Semester,Introduction to Human Services,3,Classroom Blended,22,0,EMMIT,ACNTR 210,"Trammell, John",R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+HSRV-300-A,Full Semester,Practicum I,3,Classroom (IP),10,0,OFFCM,,"Trammell, John",,,,Aug 18 2025,Dec 12 2025
+HSRV-305-A,Full Semester,Program Evaluation,3,Classroom (IP),22,1,EMMIT,ACNTR 220,"Trammell, John",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+IDED-120-A,Full Semester,How Adults Learn,3,Classroom (IP),24,0,EMMIT,ACNTR 310,"Katzen, Hannah",M W F,3:00 PM,3:50 PM,Aug 18 2025,Dec 12 2025
+ITALN-101-A,Full Semester,Beginning Italian I,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+ITALN-101-CS,Full Semester,Beginning Italian I (Florence),3,Classroom (IP),25,0,OFFCM,OFFSL,"Towle, Michael",,,,Aug 18 2025,Dec 12 2025
+ITALN-201-A,Full Semester,Intermediate Italian I,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+ITALN-301-A,Full Semester,Introduction to Italian Studies I,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+JAPN-101-A,Full Semester,Beginning Japanese I,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+JAPN-215-A,Full Semester,Japanese Language & Culture I,3,Classroom (IP),22,0,EMMIT,ACNTR 111,"Roman, Marco",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+MATH-105-A,Full Semester,Elementary Statistics,3,Classroom Blended,20,5,EMMIT,SCIEN 117,"Butler, Melanie",M W,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+MATH-108-A,Full Semester,Concepts of Mathematics for Teacher,3,Classroom (IP),20,0,EMMIT,ACNTR 104,"Gerhart, Matthew",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+MATH-114-A,Full Semester,Precalculus Mathematics,3,Classroom (IP),20,0,EMMIT,SCIEN 117,"Gerhart, Matthew",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+MATH-211-A,Full Semester,Mathematical Thinking,3,Online Asynchronous,20,0,ONLIN,,"Butler, Melanie",,,,Aug 18 2025,Dec 12 2025
+MATH-211-B,Full Semester,Mathematical Thinking,3,Online Asynchronous,20,1,ONLIN,,"Butler, Melanie",,,,Aug 18 2025,Dec 12 2025
+MATH-211-C,Full Semester,Mathematical Thinking,3,Classroom (IP),20,0,EMMIT,SCIEN 125,"Gerhart, Matthew",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+MATH-211-D,Full Semester,Mathematical Thinking,3,Classroom (IP),20,1,EMMIT,SCIEN 125,"Gerhart, Matthew",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+MATH-211-E,Full Semester,Mathematical Thinking,3,Classroom (IP),20,0,EMMIT,SCIEN 125,Jenzabar J1 Admin,T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+MATH-211-F,Full Semester,Mathematical Thinking,3,Classroom (IP),20,0,EMMIT,SCIEN 125,Jenzabar J1 Admin,T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+MATH-211-G,Full Semester,Mathematical Thinking,3,Online Blended,20,0,ONLIN,,Jenzabar J1 Admin,M W,4:30 PM,5:20 PM,Aug 18 2025,Dec 12 2025
+MATH-211-H,Full Semester,Mathematical Thinking,3,Online Blended,20,0,ONLIN,,Jenzabar J1 Admin,M W,5:30 PM,6:20 PM,Aug 18 2025,Dec 12 2025
+MATH-228-A,Full Semester,Discrete Mathematics,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Mudiyanselage, Nadun",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+MATH-247-A,Full Semester,Calculus I,4,Classroom Blended,20,2,EMMIT,SCIEN 107,"Hook, Jonelle",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+MATH-247-B,Full Semester,Calculus I,4,Classroom Blended,20,1,EMMIT,SCIEN 125,"Hook, Jonelle",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+MATH-249-A,Full Semester,Calculus III,4,Classroom (IP),20,0,EMMIT,SCIEN 117,"Hook, Jonelle",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+MATH-249-A,Full Semester,Calculus III,4,Classroom (IP),20,0,EMMIT,SCIEN 117,"Hook, Jonelle",W,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+MATH-388-A,Full Semester,Operations Research,3,Classroom (WC),20,0,EMMIT,SCIEN 117,"Heinold, Brian",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+MATH-389-A,Full Semester,Numerical Methods,3,Classroom (IP),20,0,EMMIT,SCIEN 107,"Mudiyanselage, Nadun",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+MSCI-101-A,Full Semester,Basic Military Science I,1,Classroom (IP),25,0,EMMIT,ACNTR 220,"Teribury, Jerome",W,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+MSCI-201-A,Full Semester,Basic Military Science III,2,Classroom (IP),25,0,EMMIT,ACNTR 304,"Gibbs, Nathan",M W,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+MSCI-301-A,Full Semester,Advanced Military Science I,3,Classroom (IP),25,0,EMMIT,ACNTR 220,"Gibbs, Nathan",R,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+MSCI-401-A,Full Semester,Advanced Military Science III,3,Classroom (IP),25,0,EMMIT,ACNTR 120,"Gibbs, Nathan",R,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+MUMO-300-A,Full Semester,Modernity in Music,3,Classroom (IP),20,0,EMMIT,ACNTR 211,"Carlson, Mark",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+NEURO-240-A,Full Semester,Sensation and Perception,4,Classroom (IP),12,0,EMMIT,SCIEN 151,"Kallarackal, Angy",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+NEURO-240-A-L,Full Semester,Sensation and Perception Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 151,"Kearns, Peter",R,2:00 PM,4:30 PM,Aug 18 2025,Dec 12 2025
+NEURO-370-A,Full Semester,Methods in Neuroscience,3,Classroom (IP),14,1,EMMIT,SCIEN 151,"Severino, Amie",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PHGE-335-A,Full Semester,Islamic Philosophy,3,Classroom (IP),23,0,EMMIT,ACNTR 304,"Miller, Mike",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-105-A,Full Semester,Mythology and Philosophy,3,Classroom (IP),12,3,EMMIT,ACNTR 210,"Hersey, John",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-201-A,Full Semester,Logic,3,Classroom (IP),23,0,EMMIT,ACNTR 306,"Naberhaus, Thane",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-AH,Full Semester,Honors Philosophy in the Modern Age,3,Classroom (IP),18,0,EMMIT,ACNTR 120,"Hersey, John",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-BH,Full Semester,Honors Philosophy in the Modern Age,3,Classroom (IP),18,0,EMMIT,ACNTR 120,"Hersey, John",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-CH,Full Semester,Honors Philosophy in the Modern Age,3,Classroom (IP),18,0,EMMIT,ACNTR 227,"Hochschild, Joshua",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-DH,Full Semester,Honors Philosophy in the Modern Age,3,Classroom (IP),18,0,EMMIT,ACNTR 227,"Hochschild, Joshua",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-EH,Full Semester,Honors Philosophy in the Modern Age,3,Classroom (IP),18,1,EMMIT,ACNTR 207,"McGinley, Stephen",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-F,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 109,Jenzabar J1 Admin,M W F,8:00 AM,8:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-G,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 109,Jenzabar J1 Admin,M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-H,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,1,EMMIT,ACNTR 311,Jenzabar J1 Admin,M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-I,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,SCIEN 314,Jenzabar J1 Admin,M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-J,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 311,Jenzabar J1 Admin,T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-K,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 227,"Dunlap, Rika",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-L,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 227,"Dunlap, Rika",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-M,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),22,0,EMMIT,ACNTR 106,Jenzabar J1 Admin,M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-N,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,SCIEN 314,Jenzabar J1 Admin,M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-O,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,SCIEN 314,Jenzabar J1 Admin,T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-P,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,SCIEN 314,Jenzabar J1 Admin,T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-203-Q,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,ACNTR 109,Jenzabar J1 Admin,M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-R,Full Semester,Philosophy in the Modern Age,3,Classroom (IP),23,0,EMMIT,PHLIB 101,Jenzabar J1 Admin,M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-203-S,Full Semester,Phil. in the Modern Age (Dublin),3,Classroom (IP),23,0,OFFCM,,"Jordan, Jessy",,,,Aug 18 2025,Dec 12 2025
+PHIL-203-T,Full Semester,Philosophy in the Modern Age,3,Online Asynchronous,23,0,ONLIN,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+PHIL-300-A,Full Semester,Ethics and the Human Good (Dublin),3,Classroom (IP),18,0,OFFCM,,"Jordan, Jessy",,,,Aug 18 2025,Dec 12 2025
+PHIL-300-B,Full Semester,Ethics and the Human Good,3,Classroom (IP),16,0,EMMIT,ACNTR 209,"Buck, Richard",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-300-C,Full Semester,Ethics and the Human Good,3,Classroom (IP),16,0,EMMIT,ACNTR 108,"Buck, Richard",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-311-A,Full Semester,Ancient Philosophy,3,Classroom (IP),23,0,EMMIT,ACNTR 220,"Hersey, John",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+PHIL-313-A,Full Semester,Modern Philosophy,3,Classroom (IP),23,0,EMMIT,SCIEN 107,"Anadale, Christopher",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-321-A,Full Semester,Metaphysics,3,Classroom (IP),23,0,EMMIT,ACNTR 220,"Hochschild, Joshua",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+PHIL-334-A,Full Semester,To Be Called: Exploring Vocation,3,Classroom (IP),18,0,EMMIT,ACNTR 208,"Miller, Mike",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PHIL-403-A,Full Semester,Modernity and Meaning,3,Classroom (IP),18,0,EMMIT,ACNTR 306,"Naberhaus, Thane",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+PHIL-498-A,Full Semester,Senior Seminar,3,Classroom (IP),18,0,EMMIT,ACNTR 109,"Dunlap, Rika",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PHYS-101-A,Full Semester,College Physics I,4,Classroom (IP),20,0,EMMIT,SCIEN 216,"Shirk, Robert",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PHYS-101-B-L,Full Semester,College Physics I Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 216,"Shirk, Robert",M,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+PHYS-101-C-L,Full Semester,College Physics I Lab,0,Classroom (IP),0,0,EMMIT,SCIEN 216,"Shirk, Robert",W,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+PHYS-201-A,Full Semester,General Physics I,4,Classroom (IP),20,0,EMMIT,SCIEN 313,"Miles, Danny",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PHYS-201-B-L,Full Semester,General Physics I Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 216,"Miles, Danny",T,1:00 PM,4:00 PM,Aug 18 2025,Dec 12 2025
+PHYS-201-C-L,Full Semester,General Physics I Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 216,"Krueger, Russell",W,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+PPE-300-A,Full Semester,Liberalism,3,Classroom (IP),23,0,EMMIT,ACNTR 227,"Buck, Richard",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-100-A,Full Semester,Foundations of American Government,3,Classroom (IP),18,0,EMMIT,ACNTR 211,"Oakley, Maureen",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-100-B,Full Semester,Foundations of American Government,3,Classroom (IP),25,0,EMMIT,SCIEN 117,"Oakley, Maureen",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-116-A,Full Semester,Law and the Legal System:,3,Classroom (IP),6,1,EMMIT,ACNTR 304,"Egan, Edward",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-122-A,Full Semester,ST: A.I. Media and Politics,3,Classroom (IP),6,0,EMMIT,ACNTR 108,"Jung, Julia Yujin",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+PSCI-122-B,Full Semester,ST: A.I. Media and Politics,3,Classroom (IP),6,0,EMMIT,ACNTR 108,"Jung, Julia Yujin",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-201-A,Full Semester,International Relations,3,Classroom (IP),40,0,EMMIT,ACNTR 310,"Christiansen, William",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PSCI-228-CS,Full Semester,Italy's Story of Political Identity,3,Classroom (IP),25,0,OFFCM,OFFSL,"Towle, Michael",,,,Aug 18 2025,Dec 12 2025
+PSCI-338-A,Full Semester,American Foreign Policy,3,Classroom (IP),25,0,EMMIT,ACNTR 310,"Christiansen, William",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PSCI-349-A,Full Semester,Comparative Political Economy,3,Classroom (IP),24,0,EMMIT,ACNTR 310,"Christiansen, William",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+PSCI-360-A,Full Semester,Political Analysis,3,Classroom (IP),24,0,EMMIT,ACNTR 106,"Jung, Julia Yujin",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-405-A,Full Semester,LSAT Preparation,1,Classroom (IP),25,0,EMMIT,ACNTR 109,"Egan, Edward",W,4:00 PM,5:15 PM,Aug 18 2025,Dec 12 2025
+PSCI-498-A,Full Semester,Pol. Sci Senior Seminar,3,Classroom (IP),15,0,EMMIT,ACNTR 222,"Oakley, Maureen",T,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+PSYCH-100-A,Full Semester,Foundations of Psychology,3,Online Synchronous,23,0,ONLIN,,"Korol, Mindy",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+PSYCH-100-B,Full Semester,Foundations of Psychology,3,Classroom (IP),23,2,EMMIT,SCIEN 314,Jenzabar J1 Admin,T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+PSYCH-100-C,Full Semester,Foundations of Psychology,3,Classroom (IP),23,0,EMMIT,SCIEN 314,Jenzabar J1 Admin,T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PSYCH-100-D,Full Semester,Foundations of Psychology,3,Classroom (IP),24,0,EMMIT,ACNTR 227,"Kearns, Peter",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+PSYCH-100-E,Full Semester,Foundations of Psychology,3,Online Synchronous,23,0,ONLIN,,"De La Cruz, Summer",T,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+PSYCH-200-A,Full Semester,Research Methods and Statistics,3,Classroom (IP),20,0,EMMIT,ACNTR 108,"Slezak, Jon",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+PSYCH-200-B,Full Semester,Research Methods and Statistics,3,Classroom (IP),15,0,EMMIT,ACNTR 108,"Slezak, Jon",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+PSYCH-203-A,Full Semester,Abnormal Psychology,3,Classroom (IP),23,0,EMMIT,ACNTR 206,"Korol, Mindy",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+PSYCH-203-B,Full Semester,Abnormal Psychology,3,Classroom (IP),23,0,EMMIT,ACNTR 206,"Korol, Mindy",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+PSYCH-230-A,Full Semester,Experimental Cognition,4,Classroom (IP),12,0,EMMIT,SCIEN 151,Jenzabar J1 Admin,M W,1:00 PM,2:15 PM,Aug 18 2025,Dec 12 2025
+PSYCH-230-A-L,Full Semester,Experimental Cognition Lab,0,Classroom (IP),12,0,EMMIT,SCIEN 151,Jenzabar J1 Admin,W,2:30 PM,5:00 PM,Aug 18 2025,Dec 12 2025
+PSYCH-303-A,Full Semester,Intro to Applied Behavior Analysis,3,Classroom (IP),23,0,EMMIT,ACNTR 224,"Mochan, Alexa",W,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+PSYCH-314-A,Full Semester,Industrial/Organizational Psych.,3,Online Synchronous,23,0,ONLIN,,Jenzabar J1 Admin,R,6:00 PM,9:00 PM,Aug 18 2025,Dec 12 2025
+PSYCH-335-A,Full Semester,Health Psychology,3,Classroom (IP),23,0,EMMIT,SCIEN 117,"Seltzer, Charles",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+PSYCH-350-A,Full Semester,ST:Legal andForensic Psychology,3,Classroom (IP),24,0,EMMIT,ACNTR 227,"Kearns, Peter",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+PSYCH-498-A,Full Semester,Senior Methods Seminar,3,Classroom (IP),30,1,EMMIT,SCIEN 117,"Kallarackal, Angy",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+PSYCH-498-A-L,Full Semester,Senior Methods Seminar Lab,0,Classroom (IP),6,1,EMMIT,,"Kallarackal, Angy",,,,Aug 18 2025,Dec 12 2025
+PSYCH-498-B-L,Full Semester,Senior Methods Seminar Lab,0,Classroom (IP),6,0,EMMIT,,"Slezak, Jon",,,,Aug 18 2025,Dec 12 2025
+PSYCH-498-C-L,Full Semester,Senior Methods Seminar Lab,0,Classroom (IP),6,0,EMMIT,,"Kearns, Peter",,,,Aug 18 2025,Dec 12 2025
+PSYCH-498-D-L,Full Semester,Senior Methods Seminar Lab,0,Classroom (IP),6,0,EMMIT,,"Korol, Mindy",,,,Aug 18 2025,Dec 12 2025
+PSYCH-498-E-L,Full Semester,Senior Methods Seminar Lab,0,Classroom (IP),6,0,EMMIT,,"Severino, Amie",,,,Aug 18 2025,Dec 12 2025
+SOC-100-5D,Full Semester,Foundations of Sociology,3,Classroom (IP),25,0,OFFCM,,"Wolfe, Timothy",M W,1:30 PM,2:30 PM,Aug 18 2025,Dec 12 2025
+SOC-100-A,Full Semester,Foundations of Sociology,3,Online Asynchronous,22,0,ONLIN,,"Remsburg, Taylor",,,,Aug 18 2025,Dec 12 2025
+SOC-100-B,Full Semester,Foundations of Sociology,3,Classroom Blended,22,1,EMMIT,ACNTR 220,"Trammell, John",T,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+SOC-100-C,Full Semester,Foundations of Sociology,3,Classroom (IP),22,1,EMMIT,ACNTR 220,Jenzabar J1 Admin,M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+SOC-100-D,Full Semester,Foundations of Sociology,3,Classroom (IP),22,0,EMMIT,ACNTR 220,Jenzabar J1 Admin,T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+SOC-211-A,Full Semester,Sociology of Sport,3,Classroom (IP),22,0,EMMIT,ACNTR 206,Jenzabar J1 Admin,T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+SOC-224-A,Full Semester,Race and Immigration,3,Classroom (IP),20,0,EMMIT,ACNTR 209,"Obinna, Denise",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SOC-245-A,Full Semester,Social Problems,3,Classroom (IP),22,0,EMMIT,ACNTR 203,Jenzabar J1 Admin,T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+SOC-300-A,Full Semester,Social Theory,3,Online Synchronous,22,0,ONLIN,,"Brazda, Michael",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+SOC-307-A,Full Semester,Social Inequality,3,Online Asynchronous,22,1,ONLIN,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+SOC-307-B,Full Semester,Social Inequality,3,Classroom (IP),22,0,EMMIT,ACNTR 203,Jenzabar J1 Admin,M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SOC-403-A,Full Semester,Methods of Social Research,3,Classroom (IP),13,0,EMMIT,ACNTR 104,Jenzabar J1 Admin,M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SOC-403-B,Full Semester,Methods of Social Research,3,Classroom (IP),13,0,EMMIT,ACNTR 209,"Obinna, Denise",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SOC-403-C,Full Semester,Methods of Social Research,3,Classroom (IP),13,0,EMMIT,ACNTR 209,"Obinna, Denise",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+SOC-480-A,Full Semester,Internship,1,Classroom (IP),0,0,EMMIT,,"Trammell, John",,,,Aug 18 2025,Dec 12 2025
+SPAN-101-A,Full Semester,Beginning Spanish I,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Solis, Andrea",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-B,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 107,"Tsoukatos, Elaini",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-C,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 206,"Blackshaw, Christine",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-D,Full Semester,Beginning Spanish I,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Solis, Andrea",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-E,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 107,"Tsoukatos, Elaini",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-F,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 206,"Blackshaw, Christine",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-G,Full Semester,Beginning Spanish I,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Solis, Andrea",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-H,Full Semester,Beginning Spanish I,3,Classroom (IP),0,0,EMMIT,ACNTR 107,"Tsoukatos, Elaini",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-I,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 224,"Garzon, Manuel",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-J,Full Semester,Beginning Spanish I,3,Classroom (IP),0,0,EMMIT,ACNTR 209,"Samples, Susann",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-101-L,Full Semester,Beginning Spanish I,3,Classroom (IP),0,0,EMMIT,ACNTR 203,"Solis, Andrea",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-101-M,Full Semester,Beginning Spanish I,3,Classroom (IP),22,1,EMMIT,ACNTR 120,"Jimenez, Celsa",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-101-N,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 120,"Jimenez, Celsa",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-101-O,Full Semester,Beginning Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 120,"Jimenez, Celsa",M W F,3:00 PM,3:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-201-A,Full Semester,Intermediate Spanish I,3,Classroom (IP),18,0,EMMIT,ACNTR 209,"Rodriguez-Lozano, Diana",M W F,8:00 AM,8:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-201-B,Full Semester,Intermediate Spanish I,3,Classroom (IP),18,0,EMMIT,ACNTR 209,"Rodriguez-Lozano, Diana",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-201-C,Full Semester,Intermediate Spanish I,3,Classroom (IP),22,0,EMMIT,ACNTR 224,"Garzon, Manuel",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-206-A,Full Semester,Int. Spanish I for Spanish Speakers,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Solis, Andrea",M W F,8:00 AM,8:50 AM,Aug 18 2025,Dec 12 2025
+SPAN-301-A,Full Semester,Introduction to Hispanic Studies,3,Classroom (IP),20,0,EMMIT,ACNTR 107,"Rodriguez-Lozano, Diana",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-301-B,Full Semester,Introduction to Hispanic Studies,3,Classroom (IP),0,0,EMMIT,ACNTR 107,"Rodriguez-Lozano, Diana",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-302-A,Full Semester,Grammar and Composition,3,Classroom (IP),20,0,EMMIT,ACNTR 104,"Tsoukatos, Elaini",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SPAN-350-A,Full Semester,Survey of Spanish Literature I,3,Classroom (IP),15,0,EMMIT,ACNTR 304,"Garzon, Manuel",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+SPED-308-1,Full Semester,Intro to Exceptional Children,4,Online Asynchronous,20,0,ONLIN,,"Solar, Ernest",,,,Aug 18 2025,Dec 12 2025
+SPED-308-A,Full Semester,Intro to Exceptional Children,4,Classroom (IP),22,0,EMMIT,ACNTR 109,"Mucci, Angela",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+SPED-415-A,Full Semester,Management in Inclusive Settings,4,Classroom (IP),24,0,EMMIT,ACNTR 109,"Solar, Ernest",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+SPED-433-A,Full Semester,Assessment in Special Education,3,Classroom (IP),24,0,EMMIT,ACNTR 109,"Marinak, Barbara",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+SPMT-127-A,Full Semester,Introduction to Sport Management,3,Classroom (IP),10,0,EMMIT,ACNTR 320,Jenzabar J1 Admin,M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+SPMT-127-B,Full Semester,Introduction to Sport Management,3,Classroom (IP),10,0,EMMIT,ACNTR 320,Jenzabar J1 Admin,M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+SPMT-127-C,Full Semester,Introduction to Sport Management,3,Online Asynchronous,25,0,ONLIN,,"Kendro, Kevin",,,,Aug 18 2025,Dec 12 2025
+SPMT-292-A,Full Semester,Social Issues in Sport Management,3,Classroom (IP),25,0,EMMIT,ACNTR 320,"Wolfe, Timothy",T R,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+SPMT-329-A,Full Semester,Business and Economics of Sport,3,Classroom (IP),25,0,EMMIT,ACNTR 222,"Leppo, Samuel",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+SPMT-329-B,Full Semester,Business and Economics of Sport,3,Classroom (IP),25,1,EMMIT,ACNTR 222,"Leppo, Samuel",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+SPMT-350-A,Full Semester,Coaching Effectiveness,3,Classroom (IP),25,0,EMMIT,ACNTR 310,"Nagro, Anna",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+SPMT-424-A,Full Semester,Mgmt & Leadership in Sport Orgs.,3,Classroom (IP),18,0,EMMIT,ACNTR 211,Jenzabar J1 Admin,M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+SPMT-440-A,Full Semester,Legal/Ethical Issues in Sport Mgmt.,3,Classroom (IP),25,0,EMMIT,ACNTR 308,Jenzabar J1 Admin,T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+STDAB-204-A,Full Semester,Irish Life and Culture (Dublin),3,Classroom (IP),25,0,OFFCM,,"Gianoutsos, Jamie",,,,Aug 18 2025,Dec 12 2025
+STDAB-205-AS,Full Semester,Italian Life and Culture,3,Classroom (IP),25,0,OFFCM,OFFSL,"Towle, Michael",,,,Aug 18 2025,Dec 12 2025
+THEOL-133-A,Full Semester,Mary and the Saints,3,Classroom (IP),8,0,EMMIT,PHLIB FR,"Brown, Joshua",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-220-A,Full Semester,Foundations of Theology,3,Classroom (IP),22,0,EMMIT,ACNTR 320,"Johnson, Brendan",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+THEOL-300-A,Full Semester,Ethics and the Human Good,3,Classroom (IP),16,0,EMMIT,PHLIB 101,"Turner, Barrett",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+THEOL-300-B,Full Semester,Ethics and the Human Good,3,Classroom (IP),16,0,EMMIT,PHLIB 101,"Turner, Barrett",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-AH,Full Semester,Made In God's Image/Consumerism,3,Classroom (IP),18,0,EMMIT,PHLIB 102,"Brown, Joshua",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-AS,Full Semester,Made In God's Image/Dying & Death,3,Online Asynchronous,22,0,ONLIN,,"Donohue, Rev James",,,,Aug 18 2025,Dec 12 2025
+THEOL-320-BH,Full Semester,Made In God's Image/Spirituality,3,Classroom (IP),18,0,EMMIT,ACNTR 306,"Hochschild, Paige",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-CH,Full Semester,Made In God's Image/Dying & Death,3,Classroom (IP),18,0,EMMIT,PHLIB 101,"Turner, Barrett",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-DH,Full Semester,Made In God's Image/The Environment,3,Classroom (IP),18,3,EMMIT,ACNTR 106,"Nutter, Taylor",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-E,Full Semester,Made In God's Image/Justice & Mercy,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Birge, Mary Kate",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-F,Full Semester,Made In God's Image/Justice & Mercy,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Birge, Mary Kate",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-G,Full Semester,Made In God's Image/Justice & Mercy,3,Classroom (IP),22,0,EMMIT,ACNTR 127,"Birge, Mary Kate",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-H,Full Semester,Made In God's Image/The Environment,3,Classroom (IP),22,0,EMMIT,PHLIB 102,"Vera, Luis",M W F,10:00 AM,10:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-I,Full Semester,Made In God's Image/The Environment,3,Classroom (IP),22,0,EMMIT,PHLIB 102,"Vera, Luis",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-J,Full Semester,Made In God's Image/Spirituality,3,Classroom (IP),22,0,EMMIT,ACNTR 227,"Gough, Justin",T R,8:00 AM,9:15 AM,Aug 18 2025,Dec 12 2025
+THEOL-320-K,Full Semester,Made In God's Image/Economy of Love,3,Classroom (IP),22,0,EMMIT,ACNTR 222,"Canadas, Alejandro",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-L,Full Semester,Made In God's Image/Work for Living,3,Classroom (IP),22,0,EMMIT,ACNTR 224,"McCarthy, David",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-M,Full Semester,Made In God's Image/Work for Living,3,Classroom (IP),22,1,EMMIT,ACNTR 224,"McCarthy, David",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-N,Full Semester,Made In God's Image/Consumerism,3,Classroom (IP),22,0,EMMIT,PHLIB 102,"Brown, Joshua",T R,12:30 PM,1:45 PM,Aug 18 2025,Dec 12 2025
+THEOL-320-O,Full Semester,Made In God's Image/Race & Gender,3,Classroom (IP),22,1,EMMIT,ACNTR 306,"Sechrest, Love",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+THEOL-422-A,Full Semester,Christian Thought before 1500,3,Classroom (IP),22,0,EMMIT,ACNTR 106,"Hochschild, Paige",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+THMO-300-A,Full Semester,Modernity in Theatre,3,Classroom (IP),22,1,EMMIT,SCIEN 111,"Brooks, Anthony",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-A,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 224,"Bonura, Christopher",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-AH,Full Semester,Hnrs Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Mitra, Indrani",M W F,1:00 PM,1:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-B,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 224,"Bonura, Christopher",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-BH,Full Semester,Hnrs Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 208,"Mitra, Indrani",M W F,2:00 PM,2:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-C,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+WCIV-201-CH,Full Semester,Hnrs Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,PHLIB 101,"Scott, Sarah",M W,2:00 PM,3:15 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-D,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 203,"Fritz, Timothy",T R,9:30 AM,10:45 AM,Aug 18 2025,Dec 12 2025
+WCIV-201-DH,Full Semester,Hnrs Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,PHLIB 101,"Scott, Sarah",M W,3:30 PM,4:45 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-E,Full Semester,Atlantic Encounters (Dublin Only),3,Classroom (IP),20,0,OFFCM,OFFSL,"Gianoutsos, Jamie",,,,Aug 18 2025,Dec 12 2025
+WCIV-201-EH,Full Semester,Hnrs Atlantic Encounters: 1450-1850,3,Classroom (IP),23,0,EMMIT,ACNTR 203,"Fritz, Timothy",T R,11:00 AM,12:15 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-F,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),23,0,EMMIT,ACNTR 220,"Creasman, Boyd",M W F,11:00 AM,11:50 AM,Aug 18 2025,Dec 12 2025
+WCIV-201-G,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),25,0,EMMIT,ACNTR 220,"Creasman, Boyd",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-I,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),24,0,EMMIT,ACNTR 203,"Dayhoff, Lucas",M W F,9:00 AM,9:50 AM,Aug 18 2025,Dec 12 2025
+WCIV-201-J,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),24,0,EMMIT,ACNTR 127,Jenzabar J1 Admin,M W,1:00 PM,2:15 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-K,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),24,0,EMMIT,ACNTR 127,Jenzabar J1 Admin,M W,2:30 PM,3:45 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-L,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),24,0,EMMIT,ACNTR 127,Jenzabar J1 Admin,M W,4:00 PM,5:15 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-M,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),25,0,EMMIT,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+WCIV-201-N,Full Semester,Atlantic Encounters: 1450-1850,3,Online Asynchronous,25,0,ONLIN,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+WCIV-201-O,Full Semester,Atlantic Encounters: 1450-1850,3,Online Asynchronous,25,0,ONLIN,,Jenzabar J1 Admin,,,,Aug 18 2025,Dec 12 2025
+WCIV-201-P,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 227,"Heil, John-Paul",M W F,12:00 PM,12:50 PM,Aug 18 2025,Dec 12 2025
+WCIV-201-Q,Full Semester,Atlantic Encounters: 1450-1850,3,Classroom (IP),20,0,EMMIT,ACNTR 227,"Heil, John-Paul",M W F,1:00 PM,1:50 PM,Aug 12 2025,Dec 12 2025
+BUS-503-A,First 8 Weeks,Financial Reporting and Control,3,Classroom (WC),20,0,EMMIT,ACNTR 327,"Liddle, Dave",W,6:00 PM,9:30 PM,Aug 18 2025,Oct 10 2025
+PSYCH-600-A,First 8 Weeks,Principles and Concepts of Behavior,3,Classroom (IP),25,0,ONLIN,,Jenzabar J1 Admin,W,5:00 PM,9:00 PM,Aug 18 2025,Oct 10 2025
+BUS-504-A,Second 8 Weeks,Global Business and Economics,3,Classroom (WC),20,1,EMMIT,ACNTR 310,"Barry, Michael",T,6:00 PM,9:30 PM,Oct 13 2025,Dec 05 2025
+BUS-516-A,Second 8 Weeks,Org. Theory & Management Practice,3,Classroom (WC),20,0,EMMIT,ACNTR 327,"Hofe, Gregory",M,6:00 PM,9:30 PM,Oct 13 2025,Dec 05 2025
