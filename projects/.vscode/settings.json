@@ -4,5 +4,6 @@
     ],
     "java.project.referencedLibraries": [
         "mysql-connector-j-9.3.0.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
